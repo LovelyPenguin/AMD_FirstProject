@@ -1,0 +1,7 @@
+C:\Users\yun_pyo_Lee\Documents\GitHub\AMD_FirstProject\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe.config
+C:\Users\yun_pyo_Lee\Documents\GitHub\AMD_FirstProject\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.exe
+C:\Users\yun_pyo_Lee\Documents\GitHub\AMD_FirstProject\JenkinsTest\JenkinsTest\bin\Debug\JenkinsTest.pdb
+C:\Users\yun_pyo_Lee\Documents\GitHub\AMD_FirstProject\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.csprojAssemblyReference.cache
+C:\Users\yun_pyo_Lee\Documents\GitHub\AMD_FirstProject\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.csproj.CoreCompileInputs.cache
+C:\Users\yun_pyo_Lee\Documents\GitHub\AMD_FirstProject\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.exe
+C:\Users\yun_pyo_Lee\Documents\GitHub\AMD_FirstProject\JenkinsTest\JenkinsTest\obj\Debug\JenkinsTest.pdb
